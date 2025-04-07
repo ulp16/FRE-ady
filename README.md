@@ -2,11 +2,11 @@
 Implementation of the Flesch Reading Ease formula for Adyghe.
 
 **USAGE:**
-1) It is recommended to have a Python version no higher than 3.9.
-For Python version switch you may want to use 
+1) Recommended Python version is up to 3.9 (no higher).
+For version switch do the following:
 python3 --version 
 alias python3=python3.9
-2) install the following packages:
+2) Install the following packages:
 
 
 
