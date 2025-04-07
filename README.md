@@ -1,5 +1,6 @@
 # FRE-ady
 Implementation of the Flesch Reading Ease formula for Adyghe
+
 USAGE:
 % python FRE-ady.py --help 
 % python FRE-en.py --help 
