@@ -1,5 +1,5 @@
 # FRE-ady
-Implementation of the Flesch Reading Ease formula for Adyghe.
+Implementation of the Flesch Reading Ease formula for Adyghe. It also provides implementation for English for comparison purpose.
 
 **USAGE:**
 1) Recommended Python version is up to 3.9 (no higher).
@@ -10,10 +10,20 @@ python3 --version
 alias python3=python3.9
 
 3) Install the following packages:
+% python3 -m pip install lingcorpora
+
+% python3 -m pip install textstat
+
+% python3 -m pip install pandas
+
+% python3 -m pip install nltk
+
+% python3 -m pip install spacy
+
+% python3 -m pip install prettytable    
 
 
-
-4) Run the script
+5) Run the script
    
 _For Adyghe:_
 
