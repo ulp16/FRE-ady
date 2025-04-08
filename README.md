@@ -23,7 +23,7 @@ alias python3=python3.9
 % python3 -m pip install prettytable    
 
 
-5) Run the script
+5) Go to/download the folder _scripts_, from there run the script
    
 _For Adyghe:_
 
