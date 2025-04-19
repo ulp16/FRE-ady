@@ -2,9 +2,9 @@
 ################################
 #USAGE:
 #python version = no higher than 3.9
-# % python FRE-v1.py --help 
-# Adyghe % python3 FRE-v2.py --file fairytale_7klass-ady.txt --lang ady
-# English %  python3 FRE-v2.py --file fiction_1_4klass-en.txt --lang en
+# % python FRE-ady.py --help 
+# Adyghe % python FRE-ady.py --file filename-ady.txt --lang ady
+# English %  python FRE-ady.py --file filename-en.txt --lang en
 ################################
 
 import textstat
