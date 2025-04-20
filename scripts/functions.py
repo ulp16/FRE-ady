@@ -148,8 +148,8 @@ def flesch_reading_ease(sentLenAveragX, syllCountX, wordCountX, name, lang):
         ASL_X = sentLenAveragX
         ASW_X = syllCountX / wordCountX
         coeffASL_ADY = 1.299342
-        coeffASW_ADY = 0.261096
-        fre_score = 150.835 - (1.015 * coeffASL_ADY * ASL_X) - (84.6 * coeffASW_ADY * ASW_X)
+        coeffASW_ADY = 0.861545
+        fre_score = 270.835 - (1.015 * coeffASL_ADY * ASL_X) - (84.6 * coeffASW_ADY * ASW_X)
         t = [['ady', name, fre_score]]
     else:
         ASL_EN = sentLenAveragX
