@@ -1,5 +1,6 @@
 # FRE-ady
-Updated version of the implementation of the Flesch Reading Ease formula for Adyghe. In addition, it provides implementation for English for comparison purpose. Latest changes concert coefficients and constant.
+Updated version of the implementation of the Flesch Reading Ease formula for Adyghe. In addition, it provides implementation for English for comparison purpose. 
+Latest changes apply to coefficients and constant.
 
 **USAGE:**
 1) Recommended Python version is up to 3.9 (no higher).
