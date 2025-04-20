@@ -1,5 +1,5 @@
 # FRE-ady
-Implementation of the Flesch Reading Ease formula for Adyghe. It also provides implementation for English for comparison purpose.
+Updated version of the implementation of the Flesch Reading Ease formula for Adyghe. In addition, it provides implementation for English for comparison purpose. Latest changes concert coefficients and constant.
 
 **USAGE:**
 1) Recommended Python version is up to 3.9 (no higher).
@@ -8,6 +8,7 @@ For version switch do the following:
 python3 --version
 
 alias python3=python3.9
+or just use _python3.9_
 
 3) Install the following packages:
 % python3 -m pip install lingcorpora
@@ -27,11 +28,11 @@ alias python3=python3.9
    
 _For Adyghe:_
 
-% python FRE-ady.py --file filename_ady.txt --lang ady  
+% python3.9 FRE-ady.py --file filename_ady.txt --lang ady  
 
 _For English:_
 
-% python FRE-en.py --file filename_en.txt --lang en
+% python3.9 FRE-en.py --file filename_en.txt --lang en
 
 #========================================================================#
 
