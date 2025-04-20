@@ -9,7 +9,10 @@ For version switch do the following:
 python3 --version
 
 alias python3=python3.9
-or just use _python3.9_
+
+or just use:
+
+_python3.9_
 
 3) Install the following packages:
 % python3 -m pip install lingcorpora
