@@ -44,10 +44,10 @@ Adyghe/English files for testing are in /ex folder.
 
 #========================================================================#
 
-Author: Uliana Petrunina, contributors: Pavel Pashentsev, Victoria Pugach
+Code developed by: Uliana Petrunina, contributors: Pavel Pashentsev, Victoria Pugach
 
 Affiliation: Center for Language and Brain, HSE University
 
 If you use the FRE-ady, please cite the following paper:
 
-Petrunina U., Zdorova N. 2025. Readability assessment of written Adyghe using a baseline approach. In: Proceedings of the International Conference “Dialogue 2025”, 1-10 pp.
+Petrunina U., Zdorova N. 2025. Readability assessment of written Adyghe using a baseline approach. In: Proceedings of the International Conference “Dialogue 2025”, 1-10 pp. [URL Dialogue2025](https://dialogue-conf.org/wp-content/uploads/2025/04/PetruninaUZdorovaN.031.pdf) 
